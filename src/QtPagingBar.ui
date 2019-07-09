@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>QtPagingBar</class>
+ <widget class="QWidget" name="QtPagingBar">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>18</width>
+    <height>18</height>
+   </rect>
+  </property>
+  <layout class="QHBoxLayout" name="pagingBarLayout"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
